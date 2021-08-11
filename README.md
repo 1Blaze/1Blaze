@@ -16,8 +16,8 @@ What I have worked on:
 
 Languages:
 
-* SQL
 * Lua
+* SQL
 * Base Level Python
 * Base Level JS
 
