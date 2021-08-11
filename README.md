@@ -3,7 +3,6 @@ Developer @
 Contact Options:
 
 * Blaze#5676
-* blaze@blazexyz.com
 
 What I have worked on:
 
