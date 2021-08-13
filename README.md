@@ -8,7 +8,6 @@ What I have worked on:
 
 * [@FRG-RP](https://github.com/FRG-RP)
 * [@NoStrict](https://discord.com/invite/NoStrict)
-* Arena Style Server - with [@pachxl](https://github.com/pachxl) + [@Hqrreh](https://github.com/Hqrreh)
 * Various Public Scripts (Releasing Big Repo Soon)
 * Leaderboard system for [@AfterDeathmatch](https://github.com/AfterDeathmatch)
 * Various other projects for other servers
