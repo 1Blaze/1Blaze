@@ -8,7 +8,7 @@ What I have worked on:
 
 * [@FRG-RP](https://github.com/FRG-RP)
 * [@NoStrict](https://discord.com/invite/NoStrict)
-* [@FiveMArena2.0]((https://discord.com/invite/fivemarena)
+* [FiveMArena2.0]((https://discord.com/invite/fivemarena)
 * Various Public Scripts (Releasing Big Repo Soon)
 * Leaderboard system for [@AfterDeathmatch](https://github.com/AfterDeathmatch)
 * Various other projects for other servers
