@@ -17,7 +17,9 @@ Languages:
 
 * Lua
 * SQL
-* Base Level Python
-* Base Level JS
+* Python - Base
+* C - Base
+* JavaScript - Base
+* (HTML + CSS) - Base
 
 ![...](https://github-readme-stats.vercel.app/api?username=1Blaze&show_icons=true&theme=radical&show&count_private=true&hide=prs)
