@@ -1,6 +1,6 @@
 ## Founder @ Purescripts
   - [Github](https://github.com/purescripts-fivem/)
-  - [Store](store.purescripts.net)
+  - [Store](https://store.purescripts.net)
   - [Discord](https://discord.gg/fWKYUcgjgB)
 
 
